@@ -1,0 +1,62 @@
+
+body {
+    background-color: #F8F9FA;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 50px;
+}
+
+#my-nav-bar {
+    background-color: white;
+}
+
+#my-brand {
+    font-weight : 700;
+}
+
+#date {
+    font-weight: 200;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    
+}
+
+.navmarg{
+    height: 56px;
+}
+
+#contexts {
+    white-space: pre-wrap;
+}
+
+.fixed #contexts a
+{
+   color: white;
+}
+.table{
+    display: block !important;
+    overflow-x: auto !important;
+    width: 100% !important;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

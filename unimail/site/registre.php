@@ -216,7 +216,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' )
         <div class="col-md-12 col-lg-6 text-center p-5 order-lg-1" id="half">
             <br><br>
         <p style="font-weight: 400; font-size :larger">Welcome to <span style="color: #0d6efd; font-weight: 700 ; font-size: 1.25rem;">Uni Mail</span></p>
-        <p class="text-muted">You can change this as needed with custom CSS, grid classes, grid Sass mixins, or utilities.</p>
+        <p class="text-muted">Keep up to date with your university.</p>
         </div>
   </div>
 </div>

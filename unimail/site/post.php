@@ -315,6 +315,17 @@ $(".approved").click(function(e) {
           });
       });
 
+
+        $("#comment").click(function() {
+        if($("#comment_text").val().trim().length < 1)
+        {
+          document.getElementById("comment_text").className += "is-invalid";
+          return false;
+        }
+        else
+        return true;
+      });
+
     </script>
   </body>
 </html>
